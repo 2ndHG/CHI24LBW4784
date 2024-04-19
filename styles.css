@@ -82,3 +82,57 @@ button {
 button:hover {
     background-color: #4b862e;
 }
+
+footer {
+    background-color: #274e13;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 30px;
+}
+
+.footer-content {
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.footer-content h3 {
+    margin-bottom: 10px;
+}
+
+.footer-content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.socials {
+    list-style: none;
+    padding: 0;
+}
+
+.socials li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.socials a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.footer-bottom {
+    font-size: 14px;
+    padding: 10px;
+    border-top: 1px solid #274e13;
+}
+
+.footer-bottom p {
+    margin: 0;
+}
+
+.footer-bottom a {
+    color: #4b862e;
+}
