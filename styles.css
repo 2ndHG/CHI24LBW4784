@@ -41,6 +41,16 @@ header {
     width: 100%;    /* 確保占滿整行 */
     margin-bottom: 20px; /* 添加一些底部邊距，確保與下方元素的間隔 */
 }
+
+#author {
+    text-align: center;
+    background: #ffffff;
+    border-radius: 15px;
+    margin: 10px 10%;
+    display: block;
+    justify-content: center; 
+    align-items: center;  
+}
 /* .video-container {
     position: relative;
     width: 100%;
